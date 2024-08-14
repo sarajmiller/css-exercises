@@ -1,0 +1,19 @@
+/* both classes */
+
+.same {
+    font-size: 28px;
+    font-family: "Helvetica", 'Times New Roman', sans-serif;
+}
+
+/* first */
+
+.first {
+    color: white;
+    background-color: black;
+}
+
+/* second */
+
+.second {
+    background-color: yellow;
+}

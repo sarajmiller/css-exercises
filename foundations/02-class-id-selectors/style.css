@@ -1,0 +1,23 @@
+/* odd rule */
+
+.odd {
+    background-color: #ffc0cb;
+    font-family : "Verdana", "DejaVu Sans", serif;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+/* second element */
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
